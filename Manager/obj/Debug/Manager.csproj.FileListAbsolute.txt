@@ -1,0 +1,70 @@
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\bin\Debug\Task.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\bin\Debug\Logging.dll
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\bin\Debug\Task.dll
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\bin\Debug\Logging.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.AboutBox.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.EventForm.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.MainForm.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.TaskForm.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\bin\Debug\Manager.exe.config
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\bin\Debug\Manager.exe.manifest
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\bin\Debug\Manager.application
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\bin\Debug\Manager.exe
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\bin\Debug\Manager.pdb
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.TrustInfo.xml
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.exe.manifest
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.application
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.exe
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\obj\Debug\Manager.pdb
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Manager\bin\Debug\System.Data.SQLite.dll
+C:\TaskService\Manager\bin\Debug\Manager.exe.config
+C:\TaskService\Manager\bin\Debug\Manager.exe.manifest
+C:\TaskService\Manager\bin\Debug\Manager.application
+C:\TaskService\Manager\bin\Debug\Manager.exe
+C:\TaskService\Manager\bin\Debug\Manager.pdb
+C:\TaskService\Manager\bin\Debug\Logging.dll
+C:\TaskService\Manager\bin\Debug\Task.dll
+C:\TaskService\Manager\bin\Debug\System.Data.SQLite.dll
+C:\TaskService\Manager\bin\Debug\Logging.pdb
+C:\TaskService\Manager\bin\Debug\Task.pdb
+C:\TaskService\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\TaskService\Manager\obj\Debug\Manager.AboutBox.resources
+C:\TaskService\Manager\obj\Debug\Manager.EventForm.resources
+C:\TaskService\Manager\obj\Debug\Manager.MainForm.resources
+C:\TaskService\Manager\obj\Debug\Manager.TaskForm.resources
+C:\TaskService\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\TaskService\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\TaskService\Manager\obj\Debug\Manager.TrustInfo.xml
+C:\TaskService\Manager\obj\Debug\Manager.exe.manifest
+C:\TaskService\Manager\obj\Debug\Manager.application
+C:\TaskService\Manager\obj\Debug\Manager.exe
+C:\TaskService\Manager\obj\Debug\Manager.pdb
+C:\TaskService\Manager\bin\Debug\Service.exe
+C:\TaskService\Manager\bin\Debug\Service.pdb
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Manager.exe
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Manager.pdb
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Logging.dll
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\mscorlib.dll
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Service.exe
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Task.dll
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\System.Data.SQLite.dll
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Logging.pdb
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Service.pdb
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\Task.pdb
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\normidna.nlp
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\normnfc.nlp
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\normnfd.nlp
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\normnfkc.nlp
+C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Debug\normnfkd.nlp
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.AboutBox.resources
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.EventForm.resources
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.MainForm.resources
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.TaskForm.resources
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.exe
+C:\Users\JayankaS\Desktop\TaskService\Manager\obj\Debug\Manager.pdb

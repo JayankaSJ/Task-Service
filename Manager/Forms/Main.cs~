@@ -1,0 +1,130 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Windows.Forms;
+using System.Threading;
+
+namespace Task {
+    public partial class MainForm : Form {
+        Engine engine;
+        public Task SelectedTask {
+            get {
+                if (this.dataGridView1.SelectedRows.Count == 1) {
+                    var index = this.dataGridView1.SelectedRows[0].Index;
+                    return Engine.Tasks[index];
+                }
+                return null;
+            }
+        }
+        public MainForm() {
+            InitializeComponent();
+            InitializeEngineComponent();
+            InitializeAdminComponent();
+        }
+        void InitializeEngineComponent() {
+            this.engine = new Engine(true);
+            this.RefreshComponent();
+        }
+        void RefreshComponent() {
+            this.dataGridView1.DataSource = null;
+            this.dataGridView1.DataSource = Engine.Tasks;
+            if (Engine.Tasks.Count > 0) {
+                this.button2.Enabled = true;
+                this.button3.Enabled = true;
+                this.timer1.Start();
+                return;
+            }
+            this.timer1.Stop();
+            this.toolStripProgressBar1.Value = 0;
+            this.button2.Enabled = false;
+            this.button3.Enabled = false;
+        }
+        private void button1_Click(object sender, EventArgs e) {
+            Task temp = null;
+            using (TaskForm taskform = new TaskForm(temp)) {
+                taskform.ShowDialog();
+                temp = taskform.task;
+                if (taskform.success) {
+                    Engine.Tasks.Add(temp);
+                    this.RefreshComponent();
+                }
+                else {
+                    if (temp != null) {
+                        temp.SelfDestroy();
+                    }
+                }
+            }
+        }
+        private void button2_Click(object sender, EventArgs e) {
+            this.SelectedTask.Stop();
+            using (TaskForm taskform = new TaskForm(this.SelectedTask)) {
+                taskform.ShowDialog();
+                if (taskform.success) {
+                    //this.engine.Restart();
+                    this.RefreshComponent();
+                }
+            }
+            this.SelectedTask.Start();
+        }
+        private void button3_Click(object sender, EventArgs e) {
+            foreach (DataGridViewRow _item in this.dataGridView1.SelectedRows) {
+                var index = this.dataGridView1.SelectedRows[0].Index;
+                var result = MessageBox.Show("This operation cannot be undone!\r\nDo you want to continue?", string.Format("Delete : {0}", Engine.Tasks[index].name), MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                if (System.Windows.Forms.DialogResult.OK == result) {
+                    Engine.Tasks.RemoveAt(index);
+                    this.RefreshComponent();
+                }
+            }
+        }
+        private void button4_Click(object sender, EventArgs e) {
+            this.Close();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e) {
+            Application.Exit();
+        }
+        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e) {
+            using (AboutBox ab = new AboutBox()) {
+                ab.ShowDialog(this);
+            }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e) {
+            if (this.SelectedTask != null) {
+                this.toolStripProgressBar1.Maximum = (int)this.SelectedTask.interval.TotalSeconds;
+                var re = (int)this.SelectedTask.Remainnig.TotalSeconds;
+                if (re < 0) {
+                    return;
+                }
+                this.toolStripProgressBar1.Value = (int)this.SelectedTask.interval.TotalSeconds - re ;
+            }
+            this.toolStripProgressBar1.PerformStep();
+        }
+
+        #region AdminComponent
+        void InitializeAdminComponent() {
+            if (!AdminPrivilages.IsAdmin()) {
+                this.button5.Text += "(Standed)";
+                AdminPrivilages.AddShieldToButton(this.button5);
+            }
+            else {
+				AdminPrivilages.SystemRegistry.Arguments = Tuner.RegParameter;
+				AdminPrivilages.SystemRegistry.ModuleRegName = Tuner.AppName;
+				AdminPrivilages.SystemRegistry.Startup();
+                this.button5.Text += "(Elevated)";
+            }
+        }
+        private void button5_Click(object sender, EventArgs e) {
+            if (AdminPrivilages.IsAdmin()) {
+            }
+            else {
+                AdminPrivilages.RestartElevated();
+            }
+        } 
+
+
+        #endregion
+    }
+}

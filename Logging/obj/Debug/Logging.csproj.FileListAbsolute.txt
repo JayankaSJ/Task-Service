@@ -1,0 +1,22 @@
+C:\Users\Visual Studio\Desktop\Task\Logging\bin\Debug\Logging.dll
+C:\Users\Visual Studio\Desktop\Task\Logging\bin\Debug\Logging.pdb
+C:\Users\Visual Studio\Desktop\Task\Logging\obj\Debug\Logging.dll
+C:\Users\Visual Studio\Desktop\Task\Logging\obj\Debug\Logging.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Logging\bin\Debug\Logging.dll
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Logging\bin\Debug\Logging.pdb
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Logging\obj\Debug\Logging.dll
+C:\Users\Visual Studio\Documents\Visual Studio 2013\Projects\TaskService\Logging\obj\Debug\Logging.pdb
+C:\TaskService\Logging\bin\Debug\Logging.dll
+C:\TaskService\Logging\bin\Debug\Logging.pdb
+C:\TaskService\Logging\obj\Debug\Logging.dll
+C:\TaskService\Logging\obj\Debug\Logging.pdb
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\Logging.dll
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\Logging.pdb
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\mscorlib.dll
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\normidna.nlp
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\normnfc.nlp
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\normnfd.nlp
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\normnfkc.nlp
+C:\Users\JayankaS\Desktop\TaskService\Logging\bin\Debug\normnfkd.nlp
+C:\Users\JayankaS\Desktop\TaskService\Logging\obj\Debug\Logging.dll
+C:\Users\JayankaS\Desktop\TaskService\Logging\obj\Debug\Logging.pdb

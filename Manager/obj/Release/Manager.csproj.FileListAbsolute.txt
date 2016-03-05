@@ -1,0 +1,36 @@
+C:\TaskService\Manager\bin\Release\Manager.exe
+C:\TaskService\Manager\bin\Release\Manager.pdb
+C:\TaskService\Manager\bin\Release\Logging.dll
+C:\TaskService\Manager\bin\Release\Service.exe
+C:\TaskService\Manager\bin\Release\Task.dll
+C:\TaskService\Manager\bin\Release\System.Data.SQLite.dll
+C:\TaskService\Manager\bin\Release\Logging.pdb
+C:\TaskService\Manager\bin\Release\Service.pdb
+C:\TaskService\Manager\bin\Release\Task.pdb
+C:\TaskService\Manager\obj\Release\Manager.csprojResolveAssemblyReference.cache
+C:\TaskService\Manager\obj\Release\Manager.AboutBox.resources
+C:\TaskService\Manager\obj\Release\Manager.EventForm.resources
+C:\TaskService\Manager\obj\Release\Manager.MainForm.resources
+C:\TaskService\Manager\obj\Release\Manager.TaskForm.resources
+C:\TaskService\Manager\obj\Release\Manager.Properties.Resources.resources
+C:\TaskService\Manager\obj\Release\Manager.csproj.GenerateResource.Cache
+C:\TaskService\Manager\obj\Release\Manager.exe
+C:\TaskService\Manager\obj\Release\Manager.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.exe
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Manager.exe
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Manager.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Logging.dll
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Service.exe
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Task.dll
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\System.Data.SQLite.dll
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Logging.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Service.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Manager\bin\Release\Task.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.AboutBox.resources
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.EventForm.resources
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.MainForm.resources
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.TaskForm.resources
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.Properties.Resources.resources
+C:\Users\Visual Studio\Desktop\TaskService\Manager\obj\Release\Manager.csproj.GenerateResource.Cache

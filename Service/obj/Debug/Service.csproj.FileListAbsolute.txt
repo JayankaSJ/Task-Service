@@ -1,0 +1,40 @@
+c:\users\visual studio\documents\visual studio 2013\Projects\TaskService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Service.exe.config
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Service.exe
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Service.pdb
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Logging.dll
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Manager.exe
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Task.dll
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Logging.pdb
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Manager.pdb
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\bin\Debug\Task.pdb
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\obj\Debug\Service.exe
+C:\Users\Visual Studio\Documents\visual studio 2013\Projects\TaskService\Service\obj\Debug\Service.pdb
+C:\TaskService\Service\bin\Debug\Service.exe.config
+C:\TaskService\Service\bin\Debug\Service.exe
+C:\TaskService\Service\bin\Debug\Service.pdb
+C:\TaskService\Service\bin\Debug\Logging.dll
+C:\TaskService\Service\bin\Debug\Task.dll
+C:\TaskService\Service\bin\Debug\System.Data.SQLite.dll
+C:\TaskService\Service\bin\Debug\Logging.pdb
+C:\TaskService\Service\bin\Debug\Task.pdb
+C:\TaskService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\TaskService\Service\obj\Debug\Service.exe
+C:\TaskService\Service\obj\Debug\Service.pdb
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\Service.exe
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\Service.pdb
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\Logging.dll
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\mscorlib.dll
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\Task.dll
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\Logging.pdb
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\Task.pdb
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\normidna.nlp
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\normnfc.nlp
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\normnfd.nlp
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\normnfkc.nlp
+C:\Users\JayankaS\Desktop\TaskService\Service\bin\Debug\normnfkd.nlp
+C:\Users\JayankaS\Desktop\TaskService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\JayankaS\Desktop\TaskService\Service\obj\Debug\Service.exe
+C:\Users\JayankaS\Desktop\TaskService\Service\obj\Debug\Service.pdb

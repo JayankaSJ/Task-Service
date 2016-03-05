@@ -1,0 +1,9 @@
+C:\TaskService\Logging\bin\Release\Logging.dll
+C:\TaskService\Logging\bin\Release\Logging.pdb
+C:\TaskService\Logging\obj\Release\Logging.dll
+C:\TaskService\Logging\obj\Release\Logging.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Logging\bin\Release\Logging.dll
+C:\Users\Visual Studio\Desktop\TaskService\Logging\bin\Release\Logging.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Logging\obj\Release\Logging.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Desktop\TaskService\Logging\obj\Release\Logging.dll
+C:\Users\Visual Studio\Desktop\TaskService\Logging\obj\Release\Logging.pdb

@@ -1,0 +1,15 @@
+C:\TaskService\Task\bin\Release\Task.dll
+C:\TaskService\Task\bin\Release\Task.pdb
+C:\TaskService\Task\bin\Release\Logging.dll
+C:\TaskService\Task\bin\Release\System.Data.SQLite.dll
+C:\TaskService\Task\bin\Release\Logging.pdb
+C:\TaskService\Task\obj\Release\Task.csprojResolveAssemblyReference.cache
+C:\TaskService\Task\obj\Release\Task.dll
+C:\TaskService\Task\obj\Release\Task.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Task\bin\Release\Task.dll
+C:\Users\Visual Studio\Desktop\TaskService\Task\bin\Release\Task.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Task\bin\Release\Logging.dll
+C:\Users\Visual Studio\Desktop\TaskService\Task\bin\Release\Logging.pdb
+C:\Users\Visual Studio\Desktop\TaskService\Task\obj\Release\Task.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Desktop\TaskService\Task\obj\Release\Task.dll
+C:\Users\Visual Studio\Desktop\TaskService\Task\obj\Release\Task.pdb

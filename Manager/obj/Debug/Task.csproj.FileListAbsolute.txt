@@ -1,0 +1,61 @@
+c:\users\visual studio\documents\visual studio 2013\Projects\Task\Task\bin\Debug\Task.exe
+c:\users\visual studio\documents\visual studio 2013\Projects\Task\Task\bin\Debug\System.Data.SQLite.dll
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.AboutBox.resources
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.EventForm.resources
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.MainForm.resources
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.TaskForm.resources
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.exe
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.pdb
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\bin\Debug\Task.pdb
+C:\Users\Visual Studio\documents\visual studio 2013\Projects\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.AboutBox.resources
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.EventForm.resources
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.MainForm.resources
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.TaskForm.resources
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.exe
+C:\Users\JayankaS\Desktop\Task\Task\obj\Debug\Task.pdb
+C:\Users\JayankaS\Desktop\Task\Task\bin\Debug\Task.exe.config
+C:\Users\JayankaS\Desktop\Task\Task\bin\Debug\Task.exe
+C:\Users\JayankaS\Desktop\Task\Task\bin\Debug\Task.pdb
+C:\Users\JayankaS\Desktop\Task\Task\bin\Debug\System.Data.SQLite.dll
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.exe
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.pdb
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\bin\Debug\Task.exe
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\bin\Debug\Task.pdb
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.AboutBox.resources
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.EventForm.resources
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.MainForm.resources
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.TaskForm.resources
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Visual Studio\Desktop\TestingU\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Task.exe
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Task.pdb
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Logging.dll
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\System.Data.SQLite.dll
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Logging.pdb
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.AboutBox.resources
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.EventForm.resources
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.MainForm.resources
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.TaskForm.resources
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.exe
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.pdb
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Task.exe.manifest
+C:\Users\Visual Studio\Desktop\Task\Task\bin\Debug\Task.application
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.TrustInfo.xml
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.exe.manifest
+C:\Users\Visual Studio\Desktop\Task\Task\obj\Debug\Task.application
+C:\Users\Visual Studio\Desktop\Task\bin\Debug\Task.exe.config
+C:\Users\Visual Studio\Desktop\Task\obj\Debug\Task.exe
+C:\Users\Visual Studio\Desktop\Task\obj\Debug\Task.pdb

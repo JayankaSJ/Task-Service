@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\TaskService\Manager\bin\Release\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\TaskService\Manager\bin\Release\Service.InstallLog
+   assemblypath = C:\TaskService\Manager\bin\Release\Service.exe
+Installing service Task Service...
+Service Task Service has been successfully installed.
+Creating EventLog source Task Service in log Application...
+Committing assembly 'C:\TaskService\Manager\bin\Release\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\TaskService\Manager\bin\Release\Service.InstallLog
+   assemblypath = C:\TaskService\Manager\bin\Release\Service.exe
+Uninstalling assembly 'C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Release\Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Release\Service.InstallLog
+   assemblypath = C:\Users\JayankaS\Desktop\TaskService\Manager\bin\Release\Service.exe
+Removing EventLog source Task Service.
+Service Task Service is being removed from the system...
+Service Task Service was successfully removed from the system.
